@@ -12,7 +12,7 @@
 ```- To be added```
 
 ## Syllabus
-1st week:  Course Orientation, Introduction to Programming and Web Dev, Setting Developement Environment (GitHub, VsCode, Terminal Settings).
+1st week:  Course Orientation, Introduction to Programming and Web Dev, Setting Developement Environment (GitHub, VsCode, Terminal Settings).  
 2nd week: Simple GitHub and Terminal Tutorial, 
 
 
