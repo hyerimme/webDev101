@@ -1,14 +1,14 @@
 # <p align = "center">💻 Web Dev 101 - Kyochul Jang</p>
 
-This repository is for those who have no knowledge about programming, but are so desirable to learn web development.  This repo will continue to be improved as the author of this repo(me) learn new knowledges about web development.
+This repository is for those who do not know programming but are desirable to learn web development. This repo will continue to be improved.
 
 
 ## ℹ️ About the Author
-I am a computer science major student at Purdue University who is very desirable to learn new skills. Feel free to reach me out via those contacts on my GitHub profile!
+I am a Junior year student majoring in Computer Science at Purdue University. I am very eager to learn new things. Feel free to reach out via those contacts on my GitHub profile!
 
 ## 👓 Course Learning Outcomes
 
-- You will learn how to learn knowledge and solve problems without getting help from instructor.
+- You will learn how to learn knowledge and solve problems without getting help from the instructor.
 - You will learn basic html, css, javascript for web development and plus React.js.
 - To be added...
 
