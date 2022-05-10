@@ -15,20 +15,36 @@ I am a computer science major student at Purdue University who is very desirable
 ## 📖 Syllabus (12 weeks)
 ### 1st week:  
 - Course Orientation
-- Introduction to Programming and Web Dev
+- Introduction to Programming and Web Dev (HTML, CSS, JavaScript)
 - Setting Developement Environment (GitHub, VsCode, Terminal Settings)
 ### 2nd week: 
 - Simple GitHub and Terminal Tutorial
+- Make own Repo and get used to GitHub & Terminal
+- HTML
 ### 3rd week:
+- HTML
+- CSS
 ### 4th week: 
+- HTML
+- CSS
 ### 5th week: 
+- HTML
+- CSS
+- JavaScript
 ### 6th week: 
+- Programming (JavaScript)
 ### 7th week: 
+- Programming (JavaScript)
 ### 8th week: 
+- React.js
 ### 9th week: 
+- React.js
 ### 10th week: 
+- Application
 ### 11th week: 
+- Application
 ### 12th week: 
+- Application
 
 
 
