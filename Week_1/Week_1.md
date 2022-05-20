@@ -14,7 +14,11 @@ Hit this [link](https://github.com/OfficerChul/webDev101)!
 > This syllabus can be updated
 
 ### 👀 Rough Roadmap for 12 (?) weeks
-```Setup -> Setup2 -> HTML -> HTML (Practice) -> CSS -> CSS (Practice) -> JavaScript -> Programming with JavaScript -> React.js -> React.js (Practice) -> Application of React.js```
+```
+Setup -> Setup2 -> HTML -> HTML (Practice) -> CSS -> CSS (Practice) -> JavaScript -> 
+Programming with JavaScript -> React.js -> 
+React.js (Practice) -> Application of React.js
+```
 
 - If you have any suggestions, feel free to reach me out!
 - I am more than pleased to apply suggestions to the coursework.
@@ -29,7 +33,7 @@ Hit this [link](https://github.com/OfficerChul/webDev101)!
     - can deploy website by using GitHub
 
 ## Introduction to WebDev (Web Development)
-### Types of Development
+### 🖥️ Types of Development
 - Frontend Development:
 The part of the website that users interacts directly ex) designs, functions (click event)
     - languages and tools
