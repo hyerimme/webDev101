@@ -1,6 +1,6 @@
 # Week 1
 
-## ?? Orientation
+## ? Orientation
 
 ### ? Goal
 - Get insights of programming
