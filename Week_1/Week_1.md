@@ -1,19 +1,19 @@
 # Week 1
 
-## ? Orientation
+## 🔔 Orientation
 
-### ? Goal
+### 🏁 Goal
 - Get insights of programming
 - Learn how to solve problems
 
-### ? Contact
+### 📲 Contact
 Kakaotalk
 
-### ? Course Syllabus
+### 📖 Course Syllabus
 Hit this [link](https://github.com/OfficerChul/webDev101)!
 > This syllabus can be updated
 
-### ? Rough Roadmap for 12 (?) weeks
+### 👀 Rough Roadmap for 12 (?) weeks
 ```Setup -> Setup2 -> HTML -> HTML (Practice) -> CSS -> CSS (Practice) -> JavaScript -> Programming with JavaScript -> React.js -> React.js (Practice) -> Application of React.js```
 
 - If you have any suggestions, feel free to reach me out!
