@@ -62,6 +62,7 @@ Change Directory (cd): change the currently working directory
 clear
 ```
 clear: clear the terminal screen
+
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/clear1.jpg?raw=true">
 
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/clear2.jpg?raw=true">
@@ -80,7 +81,7 @@ rm
 ReMove (rm): remove file or directory</br>
 *to remove directory, `rm -r` command is used.
 
-<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/rm.jpg?raw=true">
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv1.jpg?raw=true">
 
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
 
