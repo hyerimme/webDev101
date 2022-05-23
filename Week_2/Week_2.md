@@ -36,36 +36,60 @@ pwd
 ```
 Print Working Directory (pwd):
 prints the full path to the current directory
+
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/pwd.jpg?raw=true">
+
 ```
 ls
 ```
 List (ls): list all the contents of the specified directory
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/ls.jpg?raw=true">
+
 ```
 mkdir
 ```
 Make Directory (mkdir): create a directory
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mkdir.jpg?raw=true">
+
 ```
 cd
 ```
 Change Directory (cd): change the currently working directory
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/cd.jpg?raw=true">
+
+
 ```
 clear
 ```
 clear: clear the terminal screen
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/clear1.jpg?raw=true">
+
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/clear2.jpg?raw=true">
+
 ```
 mv
 ```
 MoVe (mv): move file or directory
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv1.jpg?raw=true">
+
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
+
 ```
 rm
 ```
 ReMove (rm): remove file or directory</br>
 *to remove directory, `rm -r` command is used.
+
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/rm.jpg?raw=true">
+
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
+
 ```
 cat
 ```
 Concatenate (cat): read the file and print it to the terminal screen
 
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/cat.jpg?raw=true">
 
 
 ## 🐱 GitHub
@@ -77,6 +101,8 @@ Concatenate (cat): read the file and print it to the terminal screen
 ## 🍎 Application of GitHub and Terminal
 
 ## 🦴 HTML
+
+## Practice
 
 
 
