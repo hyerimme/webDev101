@@ -22,7 +22,7 @@
 ### Let's drill down further this week!
 - **Terminal** - simple command
 - **GitHub** - git and GitHub, sign up, install, tutorial
-- **Application** of GitHub and Terminal
+- **Excercise** of GitHub and Terminal
 - **HTML**
 
 
@@ -48,13 +48,13 @@ List (ls): list all the contents of the specified directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/ls.jpg?raw=true">
 
 ```
-mkdir
+mkdir [direcotory name]
 ```
 Make Directory (mkdir): create a directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mkdir.jpg?raw=true">
 
 ```
-cd
+cd [destination folder name]
 ```
 Change Directory (cd): change the currently working directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/cd.jpg?raw=true">
@@ -70,7 +70,7 @@ clear: clear the terminal screen
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/clear2.jpg?raw=true">
 
 ```
-mv
+mv [file to move] [destination directory/path]
 ```
 MoVe (mv): move file or directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv1.jpg?raw=true">
@@ -78,7 +78,7 @@ MoVe (mv): move file or directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
 
 ```
-rm
+rm (-r) [file name / directory name]
 ```
 ReMove (rm): remove file or directory</br>
 *to remove directory, `rm -r` command is used.
@@ -88,12 +88,13 @@ ReMove (rm): remove file or directory</br>
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
 
 ```
-cat
+cat [filename]
 ```
 Concatenate (cat): read the file and print it to the terminal screen
 
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/cat.jpg?raw=true">
 
+### If you have any command you want to know, google it!
 
 ## 🐱 GitHub
 
@@ -163,7 +164,7 @@ git pull
 **But**, with VsCode GitHub extension, these commands are not needed.
 
 
-## 🍎 Application of GitHub and Terminal
+## 🍎 Exercise of GitHub and Terminal
 
 1. Create GitHub account
 2. Fork this repo to your GitHub
