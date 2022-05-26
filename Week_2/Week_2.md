@@ -158,20 +158,22 @@ git pull
 <img src="https://uidaholib.github.io/get-git/images/workflow.png" />
 
 - Creates a completely independent copy of Git repository
-```
-git fork
-```
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/github2.jpg?raw=true" />
 
 **But**, with VsCode GitHub extension, these commands are not needed.
 
 
 ## 🍎 Application of GitHub and Terminal
 
-1. clone
+1. Create GitHub account
+2. Fork this repo to your GitHub
+3. Read the instruction in `Week_2\practice` directory and do the assignment
+4. Add, commit and push the result to your repo
+> Follow the git commit convention when you commit. Click [here](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53) for the convention
 
 ## 🦴 HTML
 
-## Practice
+
 
 
 
