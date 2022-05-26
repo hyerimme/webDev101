@@ -2,8 +2,9 @@
 
 - [Recap](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-recap)
 - [This Week](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-this-week)
-- [Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-terminal)
+- [Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#%EF%B8%8F-terminal)
 - [GitHub](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-github)
+- [Exercise for GitHub and Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-exercise-of-github-and-terminal)
 - [HTML](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-html)
 
 ## 🔙 Recap
@@ -164,7 +165,7 @@ git pull
 **But**, with VsCode GitHub extension, these commands are not needed.
 
 
-## 🍎 Exercise of GitHub and Terminal
+## 🍎 Exercise for GitHub and Terminal
 
 1. Create GitHub account
 2. Fork this repo to your GitHub
