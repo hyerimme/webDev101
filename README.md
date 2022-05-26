@@ -18,9 +18,10 @@ I am a Junior year student majoring in Computer Science at Purdue University. I 
 - Introduction to Programming and Web Dev (HTML, CSS, JavaScript)
 - Setting Developement Environment (GitHub, VsCode, Terminal Settings)
 ### [2nd week](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md): 
-- Simple GitHub and Terminal Tutorial
-- Make own Repo and get used to GitHub & Terminal
-- HTML
+- Terminal
+- Github
+- Exercise for GitHub and Terminal
+- Googling
 ### 3rd week:
 - HTML
 - CSS
