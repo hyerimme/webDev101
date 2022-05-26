@@ -125,16 +125,49 @@ Step 1. Create GitHub account
 > You can create your GitHub account [here](https://github.com/join).
 
 Step 2. Clone [WebDev101](https://github.com/OfficerChul/webDev101)
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/github1.jpg?raw=true" />
 ```
 git clone https://github.com/OfficerChul/webDev101.git
 ```
 
+Step 3. add, commit, push and pull, and fork
 
+- Add a file to staging environment
+```
+git add .
+```
+> `"."` means all subfiles
 
+- Package all files in staging area into a commit
+```
+git commit -m "<message>"
+```
+> Put the message for the commit instead of `<message>`
 
+- Push files in commit into git repo so that others now can see your changes.
+```
+git push
+```
+
+- If others made a change on your git repo, you can get the most updated change to your local machine(computer).
+```
+git pull
+```
+</br>
+</br>
+<img src="https://uidaholib.github.io/get-git/images/workflow.png" />
+
+- Creates a completely independent copy of Git repository
+```
+git fork
+```
+
+**But**, with VsCode GitHub extension, these commands are not needed.
 
 
 ## 🍎 Application of GitHub and Terminal
+
+1. clone
 
 ## 🦴 HTML
 
