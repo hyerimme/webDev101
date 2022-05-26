@@ -18,6 +18,8 @@
 - Github - Distributed Source Control System
 
 ## 📖 This Week
+
+### Let's drill down further this week!
 - **Terminal** - simple command
 - **GitHub** - git and GitHub, sign up, install, tutorial
 - **Application** of GitHub and Terminal
@@ -95,8 +97,41 @@ Concatenate (cat): read the file and print it to the terminal screen
 
 ## 🐱 GitHub
 
+### What is GitHub?
+
+### We need to know **Git** first
+**Git** is a version control tool (software) to track the changes in the source code.
+Git is installed on Linux and MacOS computers by default, but Windows.
+
+### Then what is GitHub
+**GitHub** is a distributed version-control platform where users can collaborate on or adopt open source code projects
+>For more information, click [here](https://docs.github.com/en/get-started)!!
+
 ### Git vs GitHub
+
 <img src="https://andersenlab.org/dry-guide/2022-03-09/img/git_v_github.png" alt="git&github" />
+
+### Let's set up GitHub
+
+Step 0. Install Git (only Window).
+> If you want to check whether `git` is installed on your computer or not, type
+```git --version``` on your command line. It will show what git version is installed on your computer. 
+```
+git version 2.30.0.windows.1
+```
+>If not installed, it won't show you the git version.
+
+Step 1. Create GitHub account
+> You can create your GitHub account [here](https://github.com/join).
+
+Step 2. Clone [WebDev101](https://github.com/OfficerChul/webDev101)
+```
+git clone https://github.com/OfficerChul/webDev101.git
+```
+
+
+
+
 
 
 ## 🍎 Application of GitHub and Terminal
