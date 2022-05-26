@@ -31,7 +31,7 @@
 
 Terminals, also known as command lines or consoles, allow us to accomplish and automate tasks on a computer without the use of a graphical user interface.
 
-10 useful Terminal Commands
+8 useful Terminal Commands
 > click [here](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e) for more info!
 
 ```
