@@ -5,7 +5,7 @@
 - [Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#%EF%B8%8F-terminal)
 - [GitHub](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-github)
 - [Exercise for GitHub and Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-exercise-for-github-and-terminal)
-- [HTML](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-html)
+- [Googling](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-html)
 
 ## 🔙 Recap
 ### Types of Web Dev
@@ -23,8 +23,8 @@
 ### Let's drill down further this week!
 - **Terminal** - simple command
 - **GitHub** - git and GitHub, sign up, install, tutorial
-- **Excercise** of GitHub and Terminal
-- **HTML**
+- **Excercise** for GitHub and Terminal
+- **Googling** <- the most important thing when you do programming!!!
 
 
 ## 🖥️ Terminal
@@ -84,9 +84,9 @@ rm (-r) [file name / directory name]
 ReMove (rm): remove file or directory</br>
 *to remove directory, `rm -r` command is used.
 
-<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv1.jpg?raw=true">
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/rm1.jpg?raw=true">
 
-<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/rm2.jpg?raw=true">
 
 ```
 cat [filename]
@@ -173,7 +173,7 @@ git pull
 4. Add, commit and push the result to your repo
 > Follow the git commit convention when you commit. Click [here](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53) for the convention
 
-## 🦴 HTML
+## 🔍 Googling
 
 
 
