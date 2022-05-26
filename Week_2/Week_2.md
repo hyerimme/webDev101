@@ -5,7 +5,7 @@
 - [Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#%EF%B8%8F-terminal)
 - [GitHub](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-github)
 - [Exercise for GitHub and Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-exercise-for-github-and-terminal)
-- [Googling](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-html)
+- [Googling](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-googling)
 
 ## 🔙 Recap
 ### Types of Web Dev
