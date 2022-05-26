@@ -4,7 +4,7 @@
 - [This Week](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-this-week)
 - [Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#%EF%B8%8F-terminal)
 - [GitHub](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-github)
-- [Exercise for GitHub and Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-exercise-of-github-and-terminal)
+- [Exercise for GitHub and Terminal](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-exercise-for-github-and-terminal)
 - [HTML](https://github.com/OfficerChul/webDev101/blob/main/Week_2/Week_2.md#-html)
 
 ## 🔙 Recap
