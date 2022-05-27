@@ -174,6 +174,36 @@ git pull
 > Follow the git commit convention when you commit. Click [here](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53) for the convention
 
 ## 🔍 Googling
+Googling is very important skills when you write your own code.
+When you encounter various errors and do not know what to do, google it!
+
+Step 0.
+<br />Select the error and copy
+<img src=".\images\google1.jpg" />
+
+
+Step 1.
+<br />Paste it into google search bar
+<img src=".\images\google2.jpg" />
+
+Step 2.
+<br /> Click one of the website and read the solution
+If the solution is not working, search until you find the solution that is working
+<img src=".\images\google3.jpg" />
+
+### Common Website that we refer to frequently
+- stackoverflow
+- geeksforgeeks
+- tutorialspoint
+- wikipedia
+- w3schools
+- official document
+    - [https://docs.github.com/en](https://docs.github.com/en)
+    - [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
+    - [https://docs.python.org/3/](https://docs.python.org/3/)
+    - etc...
+
+
 
 
 
