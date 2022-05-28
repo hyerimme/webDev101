@@ -21,10 +21,10 @@
 ## 📖 This Week
 
 ### Let's drill down further this week!
-- **Terminal** - simple command
+- **Terminal** - some simple commands
 - **GitHub** - git and GitHub, sign up, install, tutorial
 - **Excercise** for GitHub and Terminal
-- **Googling** <- the most important thing when you do programming!!!
+- **Googling**
 
 
 ## 🖥️ Terminal
@@ -49,7 +49,7 @@ List (ls): list all the contents of the specified directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/ls.jpg?raw=true">
 
 ```
-mkdir [direcotory name]
+mkdir [directory name]
 ```
 Make Directory (mkdir): create a directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mkdir.jpg?raw=true">
@@ -178,7 +178,7 @@ Googling is very important skills when you write your own code.
 When you encounter various errors and do not know what to do, google it!
 
 Step 0.
-<br />Select the error and copy
+<br />Select the error and copy <br />
 <img src=".\images\google1.jpg" />
 
 
