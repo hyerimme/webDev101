@@ -23,8 +23,8 @@ I am a Junior year student majoring in Computer Science at Purdue University. I 
 - Exercise for GitHub and Terminal
 - Googling
 ### 3rd week:
+- Using GitHub with VsCode
 - HTML
-- CSS
 ### 4th week: 
 - HTML
 - CSS
