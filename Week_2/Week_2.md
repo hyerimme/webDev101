@@ -164,7 +164,7 @@ git pull
 
 **But**, with VsCode GitHub extension, these commands are not needed.
 
-**If you have a configuration issue when you commit, please refer this [link](https://github.com/OfficerChul/webDev101/blob/m   ain/Week_2/git_configuration.md)**
+**If you have a configuration issue when you commit, please refer this [link](https://github.com/OfficerChul/webDev101/blob/main/Week_2/git_configuration.md)**
 
 
 ## 🍎 Exercise for GitHub and Terminal
