@@ -94,12 +94,23 @@ Make any change to push to your remote machine.
 
 **Step2**<br />
 Press `source control tab` on your side bar.
-<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_source_control.jpg?raw=true" />
-
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_sidebar.jpg?raw=true" />
 
 **Step3**<br />
+Check the changes you made.<br />
+You can also discard all changes. <br />
+Press check mark if the changes are all correct and you want to do `git add .` and `git commit` with the message.
+
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_source_control.jpg?raw=true" />
 
 **Step4**<br />
+Push to your remote machine by pressing the `sync change button`.<br />
+
+<img src = "https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_push.jpg?raw=true" />
+<br />
+or
+<br />
+<img src = "https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_push2.jpg?raw=true" />
 
 
 ## 🛕 HTML
