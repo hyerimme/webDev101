@@ -94,7 +94,8 @@ Make any change to push to your remote machine.
 
 **Step2**<br />
 Press `source control tab` on your side bar.
-<img>
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_source_control.jpg?raw=true" />
+
 
 **Step3**<br />
 
