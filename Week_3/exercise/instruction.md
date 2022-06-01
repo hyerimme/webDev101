@@ -1,10 +1,10 @@
 # Exercise Instruction
 
-## ? Goal
+## 🔔 Goal
 You will make a website which looks like: </br>
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/exercise.jpg?raw=true"/>
 
-## ? Instruction
+## 📑 Instruction
 
 1. Create a directory called `Week3`
 2. Create `exercise_[your_name].html` file in the directory
