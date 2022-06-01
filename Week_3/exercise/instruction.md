@@ -2,7 +2,7 @@
 
 ## ? Goal
 You will make a website like this:
-
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/exercise.jpg?raw=true"/>
 
 ## ? Instruction
 

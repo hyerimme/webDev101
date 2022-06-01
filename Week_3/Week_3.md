@@ -157,10 +157,12 @@ ex)
 Let's make HTML file called `index.html` which is a common name for html file.
 </br>
 Copy the html example to the file.
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/html_example.jpg?raw=true" />
 
 ### How to run HTML
 1. go to `Extension tab`
 2. search `Live Server` and install
+<img src="Week_3\images\live_server_installation.jpg" />
 3. click `Go Live` button from the status bar to turn the server on/off.
 > For more information about the Live Server Extension, click [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer#:~:text=Open%20a%20HTML%20file%20and,on%20Open%20with%20Live%20Server%20.&text=Open%20the%20Command%20Pallete%20by,Server%20to%20stop%20a%20server.).
 
@@ -181,6 +183,8 @@ Copy the html example to the file.
 - `<body>`
     - body is the part of HTML that contains the content of the page. The body section is the second section of the HTML document where the first section is head.
 <img src="https://www.tutorialstonight.com/assets/html/html-body-code.png">
+
+### [Excercise](https://github.com/OfficerChul/webDev101/blob/main/Week_3/exercise/instruction.md)
 
 
 
