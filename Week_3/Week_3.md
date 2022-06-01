@@ -162,8 +162,9 @@ Copy the html example to the file.
 ### How to run HTML
 1. go to `Extension tab`
 2. search `Live Server` and install
-<img src="Week_3\images\live_server_installation.jpg" />
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/live_server_installation.jpg?raw=true" />
 3. click `Go Live` button from the status bar to turn the server on/off.
+<img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/live_server_goLive.jpg?raw=true">
 > For more information about the Live Server Extension, click [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer#:~:text=Open%20a%20HTML%20file%20and,on%20Open%20with%20Live%20Server%20.&text=Open%20the%20Command%20Pallete%20by,Server%20to%20stop%20a%20server.).
 
 ### Tags explanation
