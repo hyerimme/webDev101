@@ -1,6 +1,12 @@
 # Week 3
 
-- [Recap]()
+- [Recap](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-recap)
+- [This Week](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-this-week)
+- [Vim](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-vim)
+- [GitHub Configuration](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-github-configuration)
+- [Using GitHub with VsCode](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-using-github-with-vscode)
+- [HTML](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-html)
+
 
 ## 🔙 Recap
 ### Terminal and GitHub Exercising
@@ -33,7 +39,7 @@ Press `:`, colon. This will allow you to save the changes or exit from the Vim.
     - Press `wq` for saving and quiting
     - Press `q!` for enforce quiting when you made any change and don't want to save it and just exit from the Vim.
 
-For more specific information about Vim Text Editor, refer this [website](https://opensource.com/article/19/3/getting-started-vim).
+> For more specific information about Vim Text Editor, refer this [website](https://opensource.com/article/19/3/getting-started-vim).
 
 ## 📛 GitHub Configuration
 
@@ -93,7 +99,7 @@ It is very convenient. Once you are accustomed with using VsCode GitHub feature,
 Make any change to push to your remote machine.
 
 **Step2**<br />
-Press `source control tab` on your side bar.
+Press `source control tab` on your side bar. </br>
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_sidebar.jpg?raw=true" />
 
 **Step3**<br />
@@ -107,7 +113,6 @@ Press check mark if the changes are all correct and you want to do `git add .` a
 Push to your remote machine by pressing the `sync change button`.<br />
 
 <img src = "https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_push.jpg?raw=true" />
-<br />
 or
 <br />
 <img src = "https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/github_vscode_push2.jpg?raw=true" />
@@ -120,7 +125,7 @@ HTML stands for Hyper Text Markup Language, which is the most widely used langua
 HTML is being widely used to format web pages with the help of different tags available in HTML language.
 <br />
 VsCode has a lot of convenient features for web dev.
-For more information, click this [link](https://code.visualstudio.com/docs/languages/html).
+> For more information, click this [link](https://code.visualstudio.com/docs/languages/html).
 
 ### Tags and Elements
 Tags in HTML is a piece of word which is surrounded by angle brackets, `<` and `>`.
@@ -157,7 +162,7 @@ Copy the html example to the file.
 1. go to `Extension tab`
 2. search `Live Server` and install
 3. click `Go Live` button from the status bar to turn the server on/off.
-For more information about the Live Server Extension, click [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer#:~:text=Open%20a%20HTML%20file%20and,on%20Open%20with%20Live%20Server%20.&text=Open%20the%20Command%20Pallete%20by,Server%20to%20stop%20a%20server.).
+> For more information about the Live Server Extension, click [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer#:~:text=Open%20a%20HTML%20file%20and,on%20Open%20with%20Live%20Server%20.&text=Open%20the%20Command%20Pallete%20by,Server%20to%20stop%20a%20server.).
 
 ### Tags explanation
 
@@ -172,6 +177,7 @@ For more information about the Live Server Extension, click [here](https://marke
         - Metadata is not displayed.
     - head tag is the first section of HTML document.
 <img src="https://www.tutorialstonight.com/assets/html/html-head-code.png" />
+
 - `<body>`
     - body is the part of HTML that contains the content of the page. The body section is the second section of the HTML document where the first section is head.
 <img src="https://www.tutorialstonight.com/assets/html/html-body-code.png">
