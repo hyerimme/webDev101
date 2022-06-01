@@ -23,4 +23,6 @@ You will make a website which looks like: </br>
     - ol
     - li
 
+> If there are tags that is not taught from the class, google it.
+
 4. Once you finish coding, push to your git repository so that I can see the exercise.
