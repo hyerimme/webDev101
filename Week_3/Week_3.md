@@ -6,7 +6,7 @@
 - [GitHub Configuration](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-github-configuration)
 - [Using GitHub with VsCode](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-using-github-with-vscode)
 - [HTML](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-html)
-- [Exercise](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#excercise)
+- [Exercise](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md#-excercise)
 
 
 ## 🔙 Recap
