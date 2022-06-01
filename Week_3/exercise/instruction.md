@@ -1,7 +1,7 @@
 # Exercise Instruction
 
 ## ? Goal
-You will make a website like this:
+You will make a website which looks like: </br>
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_3/images/exercise.jpg?raw=true"/>
 
 ## ? Instruction
