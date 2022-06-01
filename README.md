@@ -26,6 +26,7 @@ I am a Junior year student majoring in Computer Science at Purdue University. I 
 - Using GitHub with VsCode
 - HTML
 ### 4th week: 
+- Comment
 - HTML
 - CSS
 ### 5th week: 
