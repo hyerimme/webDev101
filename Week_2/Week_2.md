@@ -79,10 +79,10 @@ MoVe (mv): move file or directory
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/mv2.jpg?raw=true">
 
 ```
-rm (-r) [file name / directory name]
+rm (-rf) [file name / directory name]
 ```
 ReMove (rm): remove file or directory</br>
-*to remove directory, `rm -r` command is used.
+*to remove directory, `rm -rf` command is used.
 
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/rm1.jpg?raw=true">
 
@@ -163,6 +163,8 @@ git pull
 <img src="https://github.com/OfficerChul/webDev101/blob/main/Week_2/images/github2.jpg?raw=true" />
 
 **But**, with VsCode GitHub extension, these commands are not needed.
+
+**If you have a configuration issue when you commit, please refer this [link](https://github.com/OfficerChul/webDev101/blob/main/Week_2/git_configuration.md)**
 
 
 ## 🍎 Exercise for GitHub and Terminal

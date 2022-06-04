@@ -22,10 +22,13 @@ I am a Junior year student majoring in Computer Science at Purdue University. I 
 - Github
 - Exercise for GitHub and Terminal
 - Googling
-### 3rd week:
+### [3rd week](https://github.com/OfficerChul/webDev101/blob/main/Week_3/Week_3.md):
+- Vim
+- GitHub Configuration
 - Using GitHub with VsCode
 - HTML
 ### 4th week: 
+- Comment
 - HTML
 - CSS
 ### 5th week: 
