@@ -2,3 +2,9 @@ h1 {
     /* Change font color */
      color: #efd75e; 
   }
+img {
+    /* Change image size */
+    width: 1020px;
+    height:auto; 
+  }
+  
