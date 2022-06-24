@@ -9,3 +9,9 @@ img {
   }
 hr {width: 1000px;
   }
+.navigator {
+  background-color: beige;}  
+.information {
+  background-color: rgba(120, 120, 120, 0.638);
+  color: aliceblue;
+}  
