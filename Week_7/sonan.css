@@ -5,26 +5,29 @@
   }
 
 header {
-    padding: 0 70px;
+    padding: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 0px;
  }
 
 .nav {
-    padding: 0 30px;
+    font-size:smaller;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 450px; padding-right: 450px;
     display: flex;
-    justify-content: center;
-    margin-top: 0px;
-    margin-bottom: 40px;
+    justify-content: space-around;
+    margin-bottom: 20px;
     color:rgb(34, 34, 34)
 }
 
 .product img{
-    padding: 0 30px;
-    max-height: 500px;
+    padding: 20px;
+    height: 460px; width: 350px; 
+    flex-direction: row;
     justify-content: space-around;
     }
     
