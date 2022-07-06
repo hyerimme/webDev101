@@ -2,16 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
   }
 
- header {
+header {
     padding: 0 70px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
  }
 
 .nav {
@@ -19,4 +18,13 @@
     display: flex;
     justify-content: center;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    color:rgb(34, 34, 34)
+}
+
+.product img{
+    padding: 0 30px;
+    max-height: 500px;
+    justify-content: space-around;
+    }
+    
