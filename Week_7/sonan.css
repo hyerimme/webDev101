@@ -2,58 +2,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
+    
   }
 
-header {
+ header {
     padding: 0 70px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: 20px;
     margin-bottom: 20px;
-}
+ }
+
 .nav {
+    padding: 0 30px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    list-style-type: none;
-    gap: 60px;
-}
-
-.nav li a {
-  text-decoration: none;
-}
-
-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 60px;
-  margin: 60px;
-}
-
-.home {
-  background-color: aliceblue;
-}
-
-.about {
-  background-color: azure;
-}
-
-.services {
-  background-color: aqua;
-}
-
-.contact {
-  background-color: aquamarine;
-}
-
-.closing {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: grey;
-  padding: 20px;
-  margin-bottom: 10px;
-}
+    margin-top: 0px;
+    margin-bottom: 20px;
