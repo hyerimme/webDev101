@@ -27,7 +27,7 @@ header {
 }
 
 hr {
-    width: 10%;
+    width: 40%;
     margin: auto;
     }
 
@@ -43,11 +43,16 @@ hr {
 }
 
 
-.product img{
+.product img {
     padding-left: 40px;
     padding-right: 20px;
+    padding-bottom: 20px;
     height: 400px; width: 350px; 
     flex-direction: row;
     justify-content: space-between;
     }
     
+.information {
+    padding-left: 30px;
+    padding-right: auto;
+}
