@@ -6,20 +6,20 @@ function App() {
     <div className="App">
 
       <header className="App-header">
-        <div className="sonan"><img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/sonan_remove.png?raw=true"></img></div>
+        <img className="sonan" src="https://github.com/hyerimme/webDev101/blob/main/Week_7/sonan_remove.png?raw=true"></img>
         <div className="member">member</div>
       </header>
       <nav>
         <ul className="nav">
-          <li style={{ textDecoration: 'none' }}>SONAN</li>
-          <li style={{ textDecoration: 'none' }}>SHOP</li>
+          <li >SONAN</li>
+          <li >SHOP</li>
           <li style={{ textDecoration: 'none' }}>CUSTOMER</li>
         </ul>
       </nav>
 
       <ul className="second_nav">
-        <li style={{textDecoration: 'none'}}>make</li>
-        <li style={{ textDecoration: 'none' }}></li>
+        <li style={{ textDecoration: 'none' }}>make</li>
+        <li style={{ textDecoration: 'none' }}>something</li>
         <li style={{ textDecoration: 'none' }}>small</li>
         <li style={{ textDecoration: 'none' }}>and</li>
         <li style={{ textDecoration: 'none' }}>warm</li>
@@ -33,7 +33,9 @@ function App() {
           <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/4%20.png?raw=true"></img>
           <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/5.jpeg?raw=true"></img>
           <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/6.png?raw=true"></img>
+
         </div>
+
       </div>
 
       <div className="information">
@@ -45,4 +47,4 @@ function App() {
   );
 }
 
-export default App;
+
