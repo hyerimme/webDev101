@@ -1,0 +1,24 @@
+.App {
+    text-align: center;
+  }
+  
+.App-header {
+    display: flex;
+    align-items: center;
+  }
+  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+Header {
+    display: flex;
+    /* padding-right: 60px; */
+    /* display: grid ;
+    grid-template: repeat(1, 2fr) / repeat(1, 6fr); */
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,14 +1,11 @@
 import React from 'react';
 import './App.css';
+import Header from './components/Header/Header';
 
 function App() {
   return (
     <div className="App">
-
-      <header className="App-header">
-        <img className="sonan" src="https://github.com/hyerimme/webDev101/blob/main/Week_7/sonan_remove.png?raw=true"></img>
-        <div className="member">member</div>
-      </header>
+      <Header />
       <nav>
         <ul className="nav">
           <li >SONAN</li>
@@ -48,3 +45,4 @@ function App() {
 }
 
 
+export default App;
