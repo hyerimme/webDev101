@@ -1,26 +1,30 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header/Header';
+import Navigator from './components/Navigator/Navigator';
+import Second_nav from './components/Second_nav/Second_nav';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <nav>
+      <Navigator />
+      <Second_nav />
+      {/* <nav>
         <ul className="nav">
           <li >SONAN</li>
           <li >SHOP</li>
           <li style={{ textDecoration: 'none' }}>CUSTOMER</li>
         </ul>
-      </nav>
+      </nav> */}
 
-      <ul className="second_nav">
+      {/* <ul className="second_nav">
         <li style={{ textDecoration: 'none' }}>make</li>
         <li style={{ textDecoration: 'none' }}>something</li>
         <li style={{ textDecoration: 'none' }}>small</li>
         <li style={{ textDecoration: 'none' }}>and</li>
         <li style={{ textDecoration: 'none' }}>warm</li>
-      </ul>
+      </ul> */}
 
       <div className="wrapper">
         <div className="product">
