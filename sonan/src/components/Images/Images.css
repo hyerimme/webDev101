@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    /* justify-content:space-evenly; */
+    /* justify-content: center; */
+    
+  }
+  
+.product.img {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+  }
+  
+.product img {
+    height: 400px; 
+    width: 300px; 
+    padding: 10px;
+  }

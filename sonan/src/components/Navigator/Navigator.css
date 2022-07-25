@@ -5,7 +5,7 @@ li {
   .nav {
     
     font-size:smaller;
-    padding-top: 0px;
+    padding-top: 20px;
     padding-bottom: 30px;
     padding-left: 450px; padding-right: 450px;
     display: flex;

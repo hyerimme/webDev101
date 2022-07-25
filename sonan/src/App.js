@@ -3,6 +3,8 @@ import './App.css';
 import Header from './components/Header/Header';
 import Navigator from './components/Navigator/Navigator';
 import Second_nav from './components/Second_nav/Second_nav';
+import Images from './components/Images/Images';
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <Header />
       <Navigator />
       <Second_nav />
+      <Images />
       {/* <nav>
         <ul className="nav">
           <li >SONAN</li>
@@ -26,7 +29,7 @@ function App() {
         <li style={{ textDecoration: 'none' }}>warm</li>
       </ul> */}
 
-      <div className="wrapper">
+      {/* <div className="wrapper">
         <div className="product">
           <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/1%20.png?raw=true"></img>
           <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/2%20.png?raw=true"></img>
@@ -37,7 +40,7 @@ function App() {
 
         </div>
 
-      </div>
+      </div> */}
 
       <div className="information">
         상호:소난 대표:이혜림 주소:06790 서울특별시 서초구 동산로 14길 58 사업자등록번호:374-64-00335 문의전화:010 2755 6954

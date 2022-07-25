@@ -2,10 +2,10 @@
     font-size:smaller;
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-left: 450px; padding-right: 450px;
+    padding-left: 350px; padding-right: 350px;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     color:rgb(34, 34, 34)
   }
   
