@@ -1,21 +1,24 @@
 import React from 'react'
 import './Navigator.css'
 
-
 export default function Navigator() {
-    return (
-        // <BrowserRouter>
-        <div className="Navigator">
+  return (
+    // <BrowserRouter>
+    <div className="Navigator">
 
-        <nav> 
+      <nav>
         <ul className="nav">
-          {/* <li><Link to='SONAN' className="SONAN">SONAN</Link></li> */}
-          <li>SHOP</li>
-          <li style={{ textDecoration: 'none' }}>CUSTOMER</li>
+          {/* <Routes> */}
+            {/* <li><Link to='SONAN' className="SONAN">SONAN</Link></li> */}
+            {/* <Route path="/" eliment={<SONAN />} /> */}
+            <li>SONAN</li>
+            <li>SHOP</li>
+            <li style={{ textDecoration: 'none' }}>CUSTOMER</li>
+          {/* </Routes> */}
         </ul>
       </nav>
-        </div>
-        // </BrowserRouter>
-    )
+    </div>
+    // </BrowserRouter>
+  )
 }
 
