@@ -1,5 +1,6 @@
 import React from 'react'
 import './Navigator.css'
+import {Link} from 'react-router-dom'
 
 export default function Navigator() {
   return (
@@ -8,13 +9,12 @@ export default function Navigator() {
 
       <nav>
         <ul className="nav">
-          {/* <Routes> */}
             {/* <li><Link to='SONAN' className="SONAN">SONAN</Link></li> */}
-            {/* <Route path="/" eliment={<SONAN />} /> */}
+         <Link to='/' className='link'></Link>
             <li>SONAN</li>
             <li>SHOP</li>
             <li style={{ textDecoration: 'none' }}>CUSTOMER</li>
-          {/* </Routes> */}
+       
         </ul>
       </nav>
     </div>
