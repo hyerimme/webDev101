@@ -5,6 +5,8 @@ import Navigator from './components/Navigator/Navigator';
 import Second_nav from './components/Second_nav/Second_nav';
 import Images from './components/Images/Images';
 import Information from './components/Information/Information';
+import SonanBody from './components/SonanBody/SonanBody';
+import { Routes } from 'react-router-dom';
 
 function App() {
   return (
@@ -12,9 +14,11 @@ function App() {
       <Header />
       <Navigator />
       <Second_nav />
-      <Images />
+        <Routes>
+          <Route path='/Images' element={<Images />} />
+        </Routes>
       <Information />
-      
+      <SonanBody />
     </div>
 
   );
