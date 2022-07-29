@@ -1,10 +1,10 @@
 import React from 'react'
-import './Sonan_body.css'
+import './SonanBody.css'
 
 
-export default function Sonan_body() {
+export default function SonanBody() {
     return (
-    <div className='Sonan_body'> 
+    <div className='SonanBody'> 
     <h1>작고 따뜻한, 손 안의 무언가들. 소난.</h1>
     <ul className='explain'>
         <li> make something small and warm </li>
