@@ -1,15 +1,23 @@
 li {
-    list-style-type: none;
-  }
+  list-style-type: none;
   
-  .nav {
-    
-    font-size:smaller;
-    padding-top: 20px;
-    padding-bottom: 30px;
-    padding-left: 450px; padding-right: 450px;
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 20px;
-    color:rgb(34, 34, 34)
-  }
+
+}
+
+.nav {
+
+  font-size: smaller;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 450px;
+  padding-right: 450px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  color: rgb(34, 34, 34)
+}
+
+.list {
+  text-decoration: none;
+  color: black;
+}

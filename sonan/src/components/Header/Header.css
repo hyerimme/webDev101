@@ -22,3 +22,12 @@ Header {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.sonan {
+  display: flex;
+  justify-content: center;
+  /* width: 2000px */
+}
+
+img {
+  width: 150px;
+}
