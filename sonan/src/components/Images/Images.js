@@ -8,15 +8,15 @@ export default function Images() {
 
         <div className="wrapper">
             <div className="product">
-                <Routes>
-                    <Route path="/Images" element={<Images />} />
+                {/* <Routes> */}
+                    {/* <Route path="/Images" element={<Images />} /> */}
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/1%20.png?raw=true"></img>
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/2%20.png?raw=true"></img>
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/3.jpeg?raw=true" ></img>
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/4%20.png?raw=true"></img>
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/5.jpeg?raw=true"></img>
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/6.png?raw=true"></img>
-                </Routes>
+                {/* </Routes> */}
             </div>
         </div>
     )

@@ -7,18 +7,20 @@ import Images from './components/Images/Images';
 import Information from './components/Information/Information';
 import SonanBody from './components/SonanBody/SonanBody';
 import { Routes } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
       <Header />
+       {/* <Route path='sonan' element={<Header />} /> */}
       <Navigator />
       <Second_nav />
         <Routes>
-          <Route path='/Images' element={<Images />} />
+          <Route path='/' element={<Images />} />
+          <Route path='sonanbody' element={<SonanBody />} />
         </Routes>
       <Information />
-      <SonanBody />
     </div>
 
   );

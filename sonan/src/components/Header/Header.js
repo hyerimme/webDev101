@@ -12,3 +12,4 @@ export default function Header() {
         </div>
     )
 }
+<li><Link to='sonanbody' className="Sonanbody">SONAN</Link></li>
