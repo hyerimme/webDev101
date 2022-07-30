@@ -9,7 +9,7 @@ export default function Navigator() {
 
       <nav>
         <ul className="nav">
-            <li><Link to='sonanbody' className="list">SONAN</Link></li>
+            <li><Link to='sonan' className="list">SONAN</Link></li>
             {/* <li>SONAN</li> */}
             <li>SHOP</li>
             <li style={{ textDecoration: 'none' }}>CUSTOMER</li>

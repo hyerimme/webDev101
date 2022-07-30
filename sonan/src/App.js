@@ -13,12 +13,11 @@ function App() {
   return (
     <div className="App">
       <Header />
-       {/* <Route path='sonan' element={<Header />} /> */}
       <Navigator />
       <Second_nav />
         <Routes>
           <Route path='/' element={<Images />} />
-          <Route path='sonanbody' element={<SonanBody />} />
+          <Route path='sonan' element={<SonanBody />} />
         </Routes>
       <Information />
     </div>
