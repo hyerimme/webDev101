@@ -10,7 +10,11 @@ export default function Header() {
                 <Link to='/' className="sonan">
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/sonan_remove.png?raw=true"></img>
                 </Link>
-                <div className="member">member</div>
+                <div className="member">
+                    <Link to='/member' className="member">member
+                    </Link>
+                </div>
+
             </header>
         </div>
     )

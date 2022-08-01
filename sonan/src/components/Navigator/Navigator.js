@@ -1,6 +1,7 @@
 import React from 'react'
 import './Navigator.css'
 import {Link} from 'react-router-dom'
+import { useState } from 'react'
 
 export default function Navigator() {
   return (
@@ -9,11 +10,9 @@ export default function Navigator() {
 
       <nav>
         <ul className="nav">
-            <li><Link to='sonan' className="list">SONAN</Link></li>
-            {/* <li>SONAN</li> */}
-            <li>SHOP</li>
-            <li style={{ textDecoration: 'none' }}>CUSTOMER</li>
-       
+            <li><Link to='/sonan' className="list">SONAN</Link></li>
+            <li><Link to='/shop' className="list">SHOP</Link></li>
+            <li><Link to='/customer' className="list">CUSTOMER</Link></li>
         </ul>
       </nav>
     </div>

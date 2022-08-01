@@ -1,11 +1,27 @@
-.SonanBody {
-    font-size:small;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-left: 350px; padding-right: 350px;
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 50px;
-    color:rgb(34, 34, 34)
-  }
-  
+
+h1 {
+  /* padding-top: 10px; */
+  padding-bottom: 20px;
+  padding-left: 350px; padding-right: 350px;
+  font-style: normal;
+  color: rgb(42, 42, 42);
+}
+
+h3 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-style: italic;
+  color: rgb(216, 168, 132);
+  padding-bottom: 20px;
+}
+.sonan_img img {
+  height:550px; 
+  width: 450px; 
+  padding: 10px;
+}
+/* img {
+  height: 580px; 
+  width: 500px; 
+  padding: 30px;
+} */
