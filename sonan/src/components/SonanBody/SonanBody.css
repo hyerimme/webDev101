@@ -21,6 +21,7 @@ h3 {
   padding-bottom: 30px;
 }
 
-li {
+.explain2 {
   font-size: small;
+  font-weight: bold;
 }
