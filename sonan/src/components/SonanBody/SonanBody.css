@@ -18,10 +18,9 @@ h3 {
 .sonan_img img {
   height:550px; 
   width: 450px; 
-  padding: 10px;
+  padding-bottom: 30px;
 }
-/* img {
-  height: 580px; 
-  width: 500px; 
-  padding: 30px;
-} */
+
+li {
+  font-size: small;
+}
