@@ -5,7 +5,7 @@ import './SonanBody.css'
 export default function SonanBody() {
     return (
         <div className="SonanBody">
-            <h1>작고 따뜻한, 손 안의 무언가들 -</h1>
+            <h1>작고 따뜻한, 손 안의 무언가들 🤲🏻</h1>
             <div className="explain">
                 <h3>make something small and warm</h3>
                 {/* <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/9.jpeg?raw=true"></img> */}
@@ -27,7 +27,9 @@ export default function SonanBody() {
                             잘 관리해주는 만큼 오랫동안 예쁘게 사용하실 수 있습니다.
                         </li>
                         <li>소난의 제품들은 식품 안전 유약으로 처리되고 있습니다.<br></br>
-                            모든 항목들은 "주문 제작"으로 표시되며 제품 상세 설명에 언급 된 시간 내에 배송됩니다.</li>                    </li>
+                            모든 항목들은 "주문 제작"으로 표시되며 제품 상세 설명에 언급 된 시간 내에 배송됩니다.<br></br>
+                            🤲🏻</li>
+                    </li>
                 </li>
             </div>
         </div>
