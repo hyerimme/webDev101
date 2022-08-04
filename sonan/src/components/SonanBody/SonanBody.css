@@ -20,8 +20,16 @@ h3 {
   width: 450px; 
   padding-bottom: 30px;
 }
-
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
 .explain2 {
   font-size: small;
   font-weight: bold;
+  text-align: left;
+}
+
+.explain3 {
+  font-weight: normal;
 }
