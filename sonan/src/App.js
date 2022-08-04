@@ -8,6 +8,7 @@ import Information from './components/Information/Information';
 import SonanBody from './components/SonanBody/SonanBody';
 import { Routes } from 'react-router-dom';
 import { Route } from 'react-router-dom';
+import Make from './components/Make/Make';
 
 function App() {
   return (
@@ -17,7 +18,8 @@ function App() {
       <Second_nav />
         <Routes>
           <Route path='/' element={<Images />} />
-          <Route path='sonan' element={<SonanBody />} />
+          <Route path='/sonan' element={<SonanBody />} />
+          <Route path='/make' element={<Make />} />
         </Routes>
       <Information />
     </div>

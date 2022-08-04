@@ -1,17 +1,15 @@
 import React from 'react'
 import './Second_nav.css'
+import { Link } from 'react-router-dom'
 
 export default function Second_nav() {
     return (
-
-
-
         <ul className="Second_nav">
-            <li style={{ textDecoration: 'none' }}>make</li>
-            <li style={{ textDecoration: 'none' }}>something</li>
-            <li style={{ textDecoration: 'none' }}>small</li>
-            <li style={{ textDecoration: 'none' }}>and</li>
-            <li style={{ textDecoration: 'none' }}>warm</li>
+            <li><Link to='/make' className="list">make</Link></li>
+            <li>something</li>
+            <li>small</li>
+            <li>and</li>
+            <li>warm</li>
         </ul>
 
     )
