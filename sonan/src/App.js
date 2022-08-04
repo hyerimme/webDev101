@@ -9,6 +9,8 @@ import SonanBody from './components/SonanBody/SonanBody';
 import { Routes } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import Make from './components/Make/Make';
+import Something from './Something/Something';
+
 
 function App() {
   return (
@@ -20,6 +22,7 @@ function App() {
           <Route path='/' element={<Images />} />
           <Route path='/sonan' element={<SonanBody />} />
           <Route path='/make' element={<Make />} />
+          <Route path='/something' element={<Something />} />
         </Routes>
       <Information />
     </div>
