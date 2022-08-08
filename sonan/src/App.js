@@ -20,9 +20,9 @@ function App() {
       <Second_nav />
         <Routes>
           <Route path='/webDev101/' element={<Images />} />
-          <Route path='/sonan' element={<SonanBody />} />
-          <Route path='/make' element={<Make />} />
-          <Route path='/something' element={<Something />} />
+          <Route path='/webDev101/sonan' element={<SonanBody />} />
+          <Route path='/webDev101/make' element={<Make />} />
+          <Route path='/webDev101/something' element={<Something />} />
         </Routes>
       <Information />
     </div>
