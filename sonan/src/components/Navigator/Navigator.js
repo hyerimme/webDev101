@@ -9,9 +9,9 @@ export default function Navigator() {
     <div className="Navigator">
       <nav>
         <ul className="nav">
-          <li><Link to='/sonan' className="list">SONAN</Link></li>
-          <li><Link to='/' className="list">SHOP</Link></li>
-          <li><Link to='/customer' className="list">CUSTOMER</Link></li>
+          <li><Link to='/webDev101/sonan' className="list">SONAN</Link></li>
+          <li><Link to='/webDev101/' className="list">SHOP</Link></li>
+          <li><Link to='/webDev101/customer' className="list">CUSTOMER</Link></li>
         </ul>
       </nav>
     </div>

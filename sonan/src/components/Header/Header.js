@@ -7,11 +7,11 @@ export default function Header() {
         <div className="App">
 
             <header className="App-header">
-                <Link to='/' className="sonan">
+                <Link to='/webDev101/' className="sonan">
                     <img src="https://github.com/hyerimme/webDev101/blob/main/Week_7/sonan_remove.png?raw=true"></img>
                 </Link>
                 <div className="member">
-                    <Link to='/member' className="member">member
+                    <Link to='/webDev101/member' className="member">member
                     </Link>
                 </div>
 
