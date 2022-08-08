@@ -19,7 +19,7 @@ function App() {
       <Navigator />
       <Second_nav />
         <Routes>
-          <Route path='/' element={<Images />} />
+          <Route path='/webDev101/' element={<Images />} />
           <Route path='/sonan' element={<SonanBody />} />
           <Route path='/make' element={<Make />} />
           <Route path='/something' element={<Something />} />
